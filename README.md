@@ -1,1 +1,1 @@
-# boston_housing_prediction_model
+# Boston Housing Prediction Model
